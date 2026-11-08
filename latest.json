@@ -1,6 +1,6 @@
 {
-  "code": 9,
-  "name": "1.0.9",
+  "code": 10,
+  "name": "1.0.10",
   "url": "https://github.com/omer-irfan/hifz-o-fahm-updates/raw/main/HifzOFahm.apk",
-  "notes": "New in Al Qur'an reader: Recite & check. Record your recitation with the text hidden, then play it back with the text shown and tap any ayah to flag a mistake. The recording is never saved. Also includes the Bayan-ul-Quran tab from 1.0.8."
+  "notes": "New in Fahm: Tajweed view. Switch any surah to the Madani script with colour-coded Tajweed (official King Fahd Complex text), with a colour key in English and Urdu. Your Indo-Pak reader stays as it is."
 }
