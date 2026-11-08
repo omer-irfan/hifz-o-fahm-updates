@@ -1,6 +1,6 @@
 {
-  "code": 8,
-  "name": "1.0.8",
+  "code": 9,
+  "name": "1.0.9",
   "url": "https://github.com/omer-irfan/hifz-o-fahm-updates/raw/main/HifzOFahm.apk",
-  "notes": "New in \u0635\u0648\u062a \u0627\u0644\u0642\u0631\u0622\u0646: Bayan-ul-Quran tab with Dr Israr Ahmad's 147 lectures. Each lecture's ayahs are recited with Urdu translation, then the full lecture plays, and your place and progress are saved."
+  "notes": "New in Al Qur'an reader: Recite & check. Record your recitation with the text hidden, then play it back with the text shown and tap any ayah to flag a mistake. The recording is never saved. Also includes the Bayan-ul-Quran tab from 1.0.8."
 }
