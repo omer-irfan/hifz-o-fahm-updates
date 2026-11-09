@@ -1,0 +1,18 @@
+name: Voice-over
+on:
+  push:
+    branches: [tts]
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python tts/run.py
+      - name: Publish output
+        run: |
+          cd out && git init -q && git checkout -q -b tts-out && git add . && git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm out
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" tts-out
