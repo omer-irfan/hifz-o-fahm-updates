@@ -1,6 +1,6 @@
 {
-  "code": 10,
-  "name": "1.0.10",
+  "code": 11,
+  "name": "1.0.11",
   "url": "https://github.com/omer-irfan/hifz-o-fahm-updates/raw/main/HifzOFahm.apk",
-  "notes": "New in Fahm: Tajweed view. Switch any surah to the Madani script with colour-coded Tajweed (official King Fahd Complex text), with a colour key in English and Urdu. Your Indo-Pak reader stays as it is."
+  "notes": "New Nazira section: read by sight, surah or juz, in Indo-Pak or Tajweed, with your place and progress saved. Sawt ul Quran now remembers where you stopped and shows your listening progress for every surah and juz."
 }
